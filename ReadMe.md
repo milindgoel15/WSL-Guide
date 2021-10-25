@@ -84,4 +84,4 @@ To unblock the service, you will have to check with the antivirus or security so
 
 Done that you can now set the WSL version if needed using the wsl –set-version <distro name> 2 command.
 
-NOTE: If you can't find the Hyper-V Host Compute Service in windows security, them head to step 3 in this Guide above.
+NOTE: If you can't find the Hyper-V Host Compute Service in windows security, them head to [step 3](https://github.com/milindgoel15/WSL-Guide#step-3-installing-hyper-v-skip-this-step-if-you-have-already-installed-and-enabled-it) in this Guide above.
